@@ -1,2 +1,1 @@
-# YouTube_channel_analysis
-Analysing my favourite YouTube channel for food and cooking - Food Wishes!
+# Analysis of my favourite YouTube channel for cooking - Food Wishes!
