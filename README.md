@@ -13,4 +13,13 @@
 
 ### Purpose of analysis
 
-With so many titles John has published on his channel, I'm interested in the data relating to his videos published in the last decade (*i.e.*, from year 2012 to 2022). 
+With so many titles John has published on his channel, I'm interested in the data relating to his videos published in the last decade (*i.e.*, from year 2012 to 2022). I'll be doing the following analyses:
+
+1. Year-wise video stats, including title counts, play counts, like counts, and comment counts
+2. When (which day)
+3. How many times 
+4. The top 30% videos in terms of likes and plays: what are the keywords? how long are these videos
+5. 
+
+
+### Tools for analysis
