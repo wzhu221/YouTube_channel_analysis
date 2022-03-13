@@ -31,4 +31,5 @@ With so many titles John has published on his channel, I'm interested in the dat
 
 I sugguest readers follow this order to see the workflow of my analysis:
 
-1. d
+1. [Fetch data through YouTube API (Step_1_YouTube_API.ipynb)](https://github.com/wzhu221/YouTube_channel_analysis/blob/main/Step_1_YouTube_API.ipynb)
+2. 
