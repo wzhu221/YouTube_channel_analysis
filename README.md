@@ -25,3 +25,10 @@ With so many titles John has published on his channel, I'm interested in the dat
 
 
 ### Tools for analysis
+
+
+### Navigate through Jupyter Notebooks
+
+I sugguest readers follow this order to see the workflow of my analysis:
+
+1. d
